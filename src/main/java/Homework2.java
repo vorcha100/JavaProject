@@ -1,7 +1,7 @@
 public class Homework2 {
     public static void main(String[] args) {
 
-        int day = 8;
+        int day = 7;
 
         switch (day) {
             case 1:
